@@ -1,21 +1,25 @@
+ALGUNS projetos que eu já fiz:
 Por favor, em cada link abaixo (https://www.youtube.com...), copie a URL, depois cole no navegador do seu computador, e assista aos vídeos:
 
-1. Sistema de Clínica Web desenvolvido em HTML, CSS, PHP e Bootstrap: https://www.youtube.com/watch?v=r1xZWiLhW18
+1. Inteligência Artificial brasileira chamada "Apoio", para ajudar na saúde mental da população brasileira: https://www.apoio-inteligencia-artificial.com/
+   Inteligência Artificial em inglês chamada "Support", para ajudar na saúde mental da população dos Estados Unidos: https://www.support-artificial-intelligence.com/
 
-2. Sistema de Carrinho de Compras desenvolvido em HTML, CSS, PHP and Bootstrap: https://www.youtube.com/watch?v=bIcaOQo6A4k
+2. Sistema de Clínica Web desenvolvido em HTML, CSS, PHP e Bootstrap: https://www.youtube.com/watch?v=r1xZWiLhW18
 
-3. Este trabalho consiste no desenvolvimento de um aplicativo (aplicativo mobile) relacionado ao combate ao Coronavírus, utilizando programação Android, com o objetivo de informar, conscientizar e ajudar a população a se prevenir contra o Coronavírus, o que pode ser de grande utilidade para ajudar a salvar vidas:
+3. Sistema de Carrinho de Compras desenvolvido em HTML, CSS, PHP and Bootstrap: https://www.youtube.com/watch?v=bIcaOQo6A4k
+
+4. Este trabalho consiste no desenvolvimento de um aplicativo (aplicativo mobile) relacionado ao combate ao Coronavírus, utilizando programação Android, com o objetivo de informar, conscientizar e ajudar a população a se prevenir contra o Coronavírus, o que pode ser de grande utilidade para ajudar a salvar vidas:
 https://www.youtube.com/watch?v=JgKhS70nI4I
 
-4. Sistemas desenvolvidos na linguagem de programação C++ https://www.youtube.com/watch?v=tkW4d14DgqM
+5. Sistemas desenvolvidos na linguagem de programação C++ https://www.youtube.com/watch?v=tkW4d14DgqM
 
-5. Vídeo de registro de estudantes desenvolvido na linguagem de programação Java:
+6. Vídeo de registro de estudantes desenvolvido na linguagem de programação Java:
 https://www.youtube.com/watch?v=Um-0K_faK4Y
 
-6. Sistema de Detecção de Rostos no Python:
+7. Sistema de Detecção de Rostos no Python:
 https://www.youtube.com/watch?v=wtMrdTP2qtk
 
-7. Mineração de Dados em Python:
+8. Mineração de Dados em Python:
 https://www.youtube.com/watch?v=O3s3ztQvNJc
 
-8. Sistema de Livraria em C#: https://www.youtube.com/watch?v=m8_q28mhGhA
+9. Sistema de Livraria em C#: https://www.youtube.com/watch?v=m8_q28mhGhA
